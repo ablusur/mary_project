@@ -119,68 +119,74 @@ p {
   /* background-color: ; */
   background-color: #b0917b;
   border-radius: 10px;
-  padding-top:100px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 /* .about_titel {
   padding: 150px 0 50px 0;
 
 } */
-.about_titel{}
-.about_titel h2{
+.about_titel {
+}
+.about_titel h2 {
   font-size: 35px;
   font-weight: 800;
-  color:#181818;
+  color: #181818;
   line-height: auto;
   text-transform: capitalize;
   font-family: "Open Sans";
-  padding-bottom:30px;
+  padding-bottom: 30px;
 }
-.about_titel p{}
-.address{
+.about_titel p {
+}
+.address {
   padding-top: 50px;
 }
 /* About section end */
 /* What section start */
-#what{
-  padding:100px 0;
+#what {
+  padding: 100px 0;
 }
-.what_text{}
-.what_text h2{
+.what_text {
+}
+.what_text h2 {
   font-size: 35px;
   font-weight: 700;
-  color:#181818;
+  color: #181818;
   font-family: "Open Sans";
-  padding-bottom:20px;
+  padding-bottom: 20px;
 }
-.what_text p{
+.what_text p {
   font-size: 18px;
   font-family: "Open Sans";
   color: #757575;
   line-height: 30px;
   margin-bottom: 30px;
 }
-.what_style{}
-.what_style a{
- 
+.what_style {
 }
-.what_style h3{
+.what_style a {
+}
+.what_style h3 {
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 20px;
   font-weight: 600;
-  color:#181818;
+  color: #181818;
   font-family: "Open Sans";
 }
-.what_style p{
+.what_style p {
   font-size: 16px;
   line-height: 28px;
-  color:#757575;
+  color: #757575;
   font-family: "Open Sans";
 }
 /* What section end */
 
-
+.bann_btnn {
+  margin-top: 50px;
+  /* padding-bottom: 50px; */
+}
 .bann_btnn a {
   background-color: #fd6e0a;
   padding: 10px 33px;
@@ -189,5 +195,5 @@ p {
   border: 2px solid #fd6e0a;
   /* margin-right: 20px; */
   text-transform: capitalize;
-  margin:0 auto;
+  /* margin:0 auto; */
 }
